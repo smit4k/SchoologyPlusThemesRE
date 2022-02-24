@@ -1,0 +1,62 @@
+{
+    "name": "Bushido Revamp (2022)",
+    "version": 2,
+    "color": {
+        "custom": {
+            "primary": "#191919",
+            "hover": "#ec4c56",
+            "background": "#36393f",
+            "border": "#40444b",
+            "link": "#ec4c56"
+        },
+        "modern": {
+            "dark": true,
+            "interface": {
+                "primary": "#242933",
+                "accent": "#242933",
+                "secondary": "#202225",
+                "input": "#40444b",
+                "border": "#ccc1c1",
+                "highlight": "rgba(184, 134, 11, 0.2)",
+                "active": "#ec4c56",
+                "grades": "#ec4c56",
+                "error": "#f44336"
+            },
+            "calendar": [
+                "#457da5",
+                "#547c41",
+                "#926c37",
+                "#7c3d6b",
+                "#0b4c9c",
+                "#00209c",
+                "#004a09",
+                "#72721a",
+                "#44233e",
+                "#683131",
+                "#770a0a",
+                "#a72413",
+                "#E0024C",
+                "#188C16",
+                "#bd7304",
+                "#80168C",
+                "#164152",
+                "#00543f",
+                "#633e11",
+                "#461b2d"
+            ],
+            "text": {
+                "primary": "#dcddde",
+                "muted": "#72767d",
+                "contrast": "#eeeeee"
+            },
+            "options": {
+                "borderRadius": 5,
+                "borderSize": 1,
+                "padding": 10
+            }
+        }
+    },
+    "logo": {
+        "url": "https://i.imgur.com/3GC476C.png"
+    }
+}
