@@ -1,0 +1,62 @@
+{
+    "name": "Grand Prix",
+    "version": 2,
+    "color": {
+        "custom": {
+            "primary": "#36404d",
+            "hover": "#a9ba3c",
+            "background": "#323437",
+            "border": "#323437",
+            "link": "#a9ba3c"
+        },
+        "modern": {
+            "dark": true,
+            "interface": {
+                "primary": "#36475c",
+                "accent": "#36475c",
+                "secondary": "#202225",
+                "input": "#40444b",
+                "border": "#ccc1c1",
+                "highlight": "#a9ba3c",
+                "active": "rgba(36, 41, 51, 0.79)",
+                "grades": "#a9ba3c",
+                "error": "#f44336"
+            },
+            "calendar": [
+                "#457da5",
+                "#547c41",
+                "#926c37",
+                "#7c3d6b",
+                "#0b4c9c",
+                "#00209c",
+                "#004a09",
+                "#72721a",
+                "#44233e",
+                "#683131",
+                "#770a0a",
+                "#a72413",
+                "#E0024C",
+                "#188C16",
+                "#bd7304",
+                "#80168C",
+                "#164152",
+                "#00543f",
+                "#633e11",
+                "#461b2d"
+            ],
+            "text": {
+                "primary": "#dcddde",
+                "muted": "#72767d",
+                "contrast": "#eeeeee"
+            },
+            "options": {
+                "borderRadius": 5,
+                "borderSize": 1,
+                "padding": 10
+            }
+        }
+    },
+    "logo": {
+        "url": "https://i.imgur.com/kTABeKr.png"
+    }
+}
